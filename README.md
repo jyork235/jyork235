@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jyork235
-- 👀 I’m interested in switching careers from teaching.
-- 🌱 I’m currently learning React.
-- 💞️ I’m looking to collaborate on anything.
+- 👀 I’m interested in learning many different things.
+- 🌱 I’m currently working on using 3blue1brown's "manim" library to create math animations
+- 💞️ I currently am working alone
 - 📫 How to reach me jeremyyork97@gmail.com
 
 <!---
